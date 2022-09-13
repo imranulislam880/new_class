@@ -1,0 +1,39 @@
+/* h1{
+    color: red;
+    font-size: 100px;
+    font-weight: bolder;
+    text-align: left;
+    text-decoration-line:line-through;
+    text-decoration-color: black;
+} */
+
+/* p{
+    text-align: justify;
+    text-align-last: center; */
+    /* direction: rtl;
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569__340.jpg);
+    color: white;
+    padding: 30px;
+    margin: 30px;
+    font-family: 'Pacifico', cursive;
+} */
+
+/* h1{
+
+    Color: red;
+    border: 10px solid black;
+    outline-style: dotted;
+    outline-width: 15px;
+    outline-color: black;
+    text-transform: lowercase;
+} */
+
+#Dhaka .school{
+    color: green;
+    background-color: red;
+}
+
+#Rangpur .school{
+    color: blue;
+    font-size: 50px;
+}

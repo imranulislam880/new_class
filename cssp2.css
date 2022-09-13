@@ -1,0 +1,16 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(26, 1, 248);
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color:green;
+    padding: 15px;
+    margin: 20px;
+}
+
+div p{
+    text-align: center;
+}
